@@ -2,7 +2,7 @@
 A tool that helps mobile pentesters to setup a mobile test environment 
 
 
-![screenshot](image.png)
+![screenshot](logo.png)
 
 
 
