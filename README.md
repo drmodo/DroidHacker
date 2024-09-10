@@ -79,5 +79,5 @@ adb shell "/data/local/tmp/frida-server &"
 ## Demo
 
 
-(https://github.com/drmodo/DroidHacker/issues/1#issue-2516424148)
+https://github.com/drmodo/DroidHacker/issues/1#issue-2516424148
 
