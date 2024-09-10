@@ -76,7 +76,6 @@ adb shell "/data/local/tmp/frida-server &"
 | -c CERTPATH   |Certificate file to push to the mobile device in DER format|
 |-proxy PROXY  |Proxy Settings, ex:127.0.0.1:8080 , default: no proxy|
 
-## Demo 
-https://github.com/user-attachments/assets/7240425f-a308-443d-9254-e93dac018c1c
-
+## Demo
+https://github.com/drmodo/DroidHacker/issues/1#issue-2516424148
 
