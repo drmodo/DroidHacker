@@ -85,4 +85,4 @@ https://github.com/user-attachments/assets/d2edfd11-3287-4916-a2dd-144e434c58e5
 ## Notes
 
 * The tool is not compatable with Android 12 & 12.1, we will update the python script once we solve the issue.
-* To reach us pleas drop us a message via Linkedin https://jo.linkedin.com/in/mohammad-aldweik, https://jo.linkedin.com/in/obada-suliman
+* To reach us pleas drop us a message via Linkedin [Mohammad Aldweik](https://jo.linkedin.com/in/mohammad-aldweik), [Obada Suliman](https://jo.linkedin.com/in/obada-suliman)
