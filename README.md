@@ -77,5 +77,7 @@ adb shell "/data/local/tmp/frida-server &"
 |-proxy PROXY  |Proxy Settings, ex:127.0.0.1:8080 , default: no proxy|
 
 ## Demo
-https://github.com/drmodo/DroidHacker/issues/1#issue-2516424148
+
+
+(https://github.com/drmodo/DroidHacker/issues/1#issue-2516424148)
 
